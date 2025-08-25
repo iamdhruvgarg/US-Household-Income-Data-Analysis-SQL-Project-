@@ -60,3 +60,4 @@ Key analysis performed in `EDA.sql`:
 ## 🚀 How to Run the Project  
 1. Clone this repository:  
 [Repo Link : Click to Open](https://github.com/iamdhruvgarg/US-Household-Income-Data-Analysis-SQL-Project-)
+2. Download Cleaning.sql & EDA.sql files and run on your computer using MySQL Workbench, VS-Code with suitable extensions or Any preferred way to get more details about the project.
