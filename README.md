@@ -59,6 +59,4 @@ Key analysis performed in `EDA.sql`:
 
 ## 🚀 How to Run the Project  
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+[Repo Link : Click to Open](https://github.com/iamdhruvgarg/US-Household-Income-Data-Analysis-SQL-Project-)
